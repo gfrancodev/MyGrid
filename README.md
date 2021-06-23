@@ -8,6 +8,13 @@ Gateway AWS IotCore to Mongodb.
 The Service captures any data payload sent directly by the Amazon AWS Iot Core and sends<br>
 it to a database in Mongodb. The transferred data can be displayed in real time on the terminal.<br><br>
 </div>
+
+<H3>EXECUTION COMMANDS</H3>
+  
+<code>npm run build</code> = Transpilation with babel ts for js.<br>
+<code>npm run dev</code> = Run in development environment.<br>
+<code>npx pm2-runtime dist/index.js</code> = Running in production environment.<br><br>
+
 <H3>PERFORMANCE<H3>
   <img src="https://i.imgur.com/oozDx3O.jpg" alt="MyGrid"><br><br>
   
