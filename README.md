@@ -59,7 +59,7 @@ PM2_PUBLIC_KEY= Your Public Key
 PM2_SECRET_KEY= Your Secret Key
 </pre>
 
-<h3>Database Structure<h3>
+<h3>DATABASE STRUCTURE<h3>
 Very simple and dynamic structure, which allows accepting any data source provided by AWS Iot Core.<br><br>
 <pre>
 {
