@@ -1,5 +1,5 @@
 <div align="center">
-<h1>MyGrid</h1>
+<h1>datajoule</h1>
 
 Gateway AWS IotCore to Mongodb.
 
